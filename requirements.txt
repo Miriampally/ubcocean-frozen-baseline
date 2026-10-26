@@ -1,0 +1,11 @@
+# Analysis scripts (grouped_rerun.py, slide_level.py, verify_pipeline.py)
+numpy==2.2.6
+scikit-learn==1.7.2
+lightgbm==4.6.0
+imbalanced-learn==0.14.0
+pandas
+pillow
+# Preprocessing (01_preprocessing_agent.py, check_preproc.py)
+opencv-python
+# Feature extraction (02_feature_extraction_agent.py) - use a separate environment if needed
+tensorflow==2.21.0
