@@ -9,3 +9,9 @@ pillow
 opencv-python
 # Feature extraction (02_feature_extraction_agent.py) - use a separate environment if needed
 tensorflow==2.21.0
+numpy==2.2.6
+scikit-learn==1.7.2
+lightgbm==4.6.0
+imbalanced-learn==0.14.0
+pandas
+Pillow
