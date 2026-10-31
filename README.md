@@ -66,8 +66,4 @@ Citation details will be added after publication.
 
 ## Disclaimer
 
-This repository is for research use. It is not a clinically validated diagnostic system and must not be used to make clinical decisions.
-
-## Disclaimer
-
 This repository is intended for research and educational use. It is not a clinically validated diagnostic system and must not be used to make clinical decisions.
